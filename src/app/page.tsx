@@ -24,7 +24,7 @@ export default function Home() {
               MinJaeSon
             </a>
           </li>
-          <li className="tracking-[-.01em]">프로젝트 : {PortfolioInfo.project_info} "{PortfolioInfo.project_title}"</li>
+          <li className="tracking-[-.01em]">프로젝트 : {PortfolioInfo.project_info} &quot;{PortfolioInfo.project_title}&quot;</li>
         </ul>
       </main>
       <footer className="flex flex-col gap-[24px] items-center justify-center">
